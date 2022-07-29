@@ -3,5 +3,4 @@ Lemonade Recipe:
 1. Water
 2. Sugar
 3. Lemon
-4. Ice
-5. Orange
+4. Orange
